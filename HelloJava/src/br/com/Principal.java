@@ -12,7 +12,7 @@ public class Principal {
 
         ListaTarefas tarefas = new ListaTarefas();
 
-//        Tarefa tarefa1 = new Tarefa("regar plantas logo depois da hora da janta");
+//        Tarefa tarefa1 = new Tarefa("regar plantas logo depois da hora da janta") ;
 //        Tarefa tarefa2 = new Tarefa("comer");
 //        Tarefa tarefa3 = new Tarefa("dormir ");
 
